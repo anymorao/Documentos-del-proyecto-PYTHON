@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.22pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Descripci\IeC {\'o}n del Proyecto}{6}{0}{1}
+\beamer@sectionintoc {2}{Descripci\IeC {\'o}n de la Aventura}{7}{0}{2}
+\beamer@sectionintoc {3}{\IeC {\textquestiondown }Com\IeC {\'o} se realiz\IeC {\'o}?}{8}{0}{3}
+\beamer@sectionintoc {4}{Imagenes}{9}{0}{4}
